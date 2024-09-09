@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Book Recommendation System
+Home-page: https://github.com/YashChavanWeb/Books-Recommendation-System-Using-Machine-Learning
+Author: YashChavanWeb
+Author-email: yashchavan4628@gmail.com
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Requires-Dist: numpy
+
+Book-Recommendation-System-Using-Machine-Learning
